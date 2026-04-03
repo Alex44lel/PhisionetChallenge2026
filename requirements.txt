@@ -1,0 +1,9 @@
+edfio==0.4.10
+joblib==1.4.2
+mne==1.11.0
+numpy==2.4.3
+pandas==2.2.2
+scikit-learn==1.6.0
+scipy==1.17.1
+torch==2.10.0
+tqdm==4.67.3
